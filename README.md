@@ -2,4 +2,4 @@
 
 > Status do projeto: completo
 
-Usando a classe Array, o console calcula a mediana de uma amostra de valores inserida pelo usuário.
+Usando a classe Array, o console calcula a mediana de uma amostra de valores inseridos pelo usuário.
