@@ -1,0 +1,15 @@
+C:\Users\Hugo\Desktop\Mediana\Mediana\bin\Debug\net6.0\Mediana.exe
+C:\Users\Hugo\Desktop\Mediana\Mediana\bin\Debug\net6.0\Mediana.deps.json
+C:\Users\Hugo\Desktop\Mediana\Mediana\bin\Debug\net6.0\Mediana.runtimeconfig.json
+C:\Users\Hugo\Desktop\Mediana\Mediana\bin\Debug\net6.0\Mediana.dll
+C:\Users\Hugo\Desktop\Mediana\Mediana\bin\Debug\net6.0\Mediana.pdb
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\Mediana.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\Mediana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\Mediana.AssemblyInfoInputs.cache
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\Mediana.AssemblyInfo.cs
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\Mediana.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\Mediana.dll
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\refint\Mediana.dll
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\Mediana.pdb
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\Mediana.genruntimeconfig.cache
+C:\Users\Hugo\Desktop\Mediana\Mediana\obj\Debug\net6.0\ref\Mediana.dll
